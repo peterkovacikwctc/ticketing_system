@@ -1,0 +1,12 @@
+/Users/peterkovacik/DOTNET development/module1/bin/Debug/netcoreapp3.1/module1.deps.json
+/Users/peterkovacik/DOTNET development/module1/bin/Debug/netcoreapp3.1/module1.runtimeconfig.json
+/Users/peterkovacik/DOTNET development/module1/bin/Debug/netcoreapp3.1/module1.runtimeconfig.dev.json
+/Users/peterkovacik/DOTNET development/module1/bin/Debug/netcoreapp3.1/module1.dll
+/Users/peterkovacik/DOTNET development/module1/bin/Debug/netcoreapp3.1/module1.pdb
+/Users/peterkovacik/DOTNET development/module1/obj/Debug/netcoreapp3.1/module1.csprojAssemblyReference.cache
+/Users/peterkovacik/DOTNET development/module1/obj/Debug/netcoreapp3.1/module1.AssemblyInfoInputs.cache
+/Users/peterkovacik/DOTNET development/module1/obj/Debug/netcoreapp3.1/module1.AssemblyInfo.cs
+/Users/peterkovacik/DOTNET development/module1/obj/Debug/netcoreapp3.1/module1.csproj.CoreCompileInputs.cache
+/Users/peterkovacik/DOTNET development/module1/obj/Debug/netcoreapp3.1/module1.dll
+/Users/peterkovacik/DOTNET development/module1/obj/Debug/netcoreapp3.1/module1.pdb
+/Users/peterkovacik/DOTNET development/module1/obj/Debug/netcoreapp3.1/module1.genruntimeconfig.cache
